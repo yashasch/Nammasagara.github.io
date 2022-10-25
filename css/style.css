@@ -171,81 +171,24 @@
 
 
 
-/*mobile view*/
 
-@media screen and (max-width:375px) {
-    .main-section1{
-    height: auto;
-    }
-    .bg-opacity{
-        height: 400px;
-    }
-    .main-section1 h2{
-    padding: 108px 16px;
-    font-size: 35px;
-    text-align: center;
-    }
-    .main-section2{
-        padding: 20px;
-    }
-    .main-section2 h2{
-        font-size: 25px;
-    }
-    .card-container{
-        display: block;
-    }
-    .card-container .card{
-        width: auto;
-    }
 
-}
+
+
+
+    
+
+
 .ubdt{
     background-color: black;
 }
-@media (min-width:376px) and (max-width:414px){
-    .main-section1{
-        height: auto;
-        }
-        .bg-opacity{
-            height: 400px;
-        }
-        .main-section1 h2{
-        padding: 108px 16px;
-        font-size: 35px;
-        text-align: center;
-        }
-        .main-section2{
-            padding: 20px;
-        }
-        .main-section2 h2{
-            font-size: 25px;
-        }
-        .card-container{
-            display: block;
-        }
-        .card-container .card{
-            width: auto;
-        }
-    
-}
 
-/*tablet view*/
+        
 
-@media(min-width:415px) and (max-width:820px){
-    .main-section1{
-        height: auto;
-        }
-        .bg-opacity{
-            height: auto;
-        }
-        .main-section1 h2{
-        padding: 150px 30px;
-        font-size: 45px;
-        text-align: center;
-        }
-        .main-section2{
-            padding: 20px;
-        }
+
+
+
+
 
 }
     
