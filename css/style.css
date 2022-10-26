@@ -169,7 +169,34 @@
 
 }
 
+@media (min-width:376px) and (max-width:415px){
+    
+    .ganesh {
+        padding-left: 14px;
+        height: 600px;
+        padding-top: 23px;
+        padding-bottom: 28px;
+        padding-right: 18px;
+    }
+    
+    
 
+.main-section1 h1 {
+    color: #d5a667;
+    padding: 35px 46px;
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+    
+    .main-section1 {
+        background-image: url(../images/2022-06-14.jpg);
+        background-position: center;
+        background-size: cover;
+        height: 666px;
+        width: 100%;
+    }
+}
 
 
 
@@ -190,7 +217,7 @@
 
 
 
-}
+
     
 
 .latest{
