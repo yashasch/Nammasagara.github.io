@@ -42,6 +42,7 @@
     height: 600px;
     padding-top: 8px;
     padding-bottom: 20px;
+    padding-right: 20px;
    }
 
    .umesh{
@@ -169,6 +170,14 @@
 
 }
 
+
+
+/*mobile view*/
+
+
+.ubdt{
+    background-color: black;
+}
 @media (min-width:376px) and (max-width:415px){
     
     .ganesh {
@@ -198,26 +207,7 @@
     }
 }
 
-
-
-
-
-    
-
-
-.ubdt{
-    background-color: black;
-}
-
-        
-
-
-
-
-
-
-
-    
+   
 
 .latest{
     padding: 18px;
