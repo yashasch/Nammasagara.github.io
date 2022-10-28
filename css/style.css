@@ -188,18 +188,8 @@
         height: 666px;
         width: 100%;
     }
-    
-    
-    .ganesh {
-        padding-left: 10px;
-        height: 617px;
-        padding-top: 19px;
-        padding-bottom: 28px;
-        padding-right: 18px;
-    }
-    
-    
-    .main-section2 h2 {
+       
+        .main-section2 h2 {
         text-align: center;
         color: blueviolet;
         padding-bottom: 1054px;
@@ -226,6 +216,19 @@
         display: flex;
         flex-wrap: wrap;
     }
+    .ganesh {
+    padding-left: 14px;
+    height: 601px;
+    padding-top: -13px;
+    padding-bottom: 87px;
+    padding-right: -21px;
+}
+
+.umesh {
+    padding-left: 0px;
+    padding-right: -1px;
+    size: 50%;
+}
 }
 
    
