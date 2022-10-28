@@ -185,7 +185,7 @@
         background-image: url(../images/2022-06-14.jpg);
         background-position: center;
         background-size: cover;
-        height: 666px;
+        height: 700px;
         width: 100%;
     }
        
@@ -217,7 +217,7 @@
         flex-wrap: wrap;
     }
     .ganesh {
-    padding-left: 14px;
+    padding-left: 21px;
     height: 601px;
     padding-top: -13px;
     padding-bottom: 87px;
