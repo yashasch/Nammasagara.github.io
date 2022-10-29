@@ -179,7 +179,7 @@
 .ubdt{
     background-color: black;
 }
-@media (min-width:376px) and (max-width:415px){
+@media (max-width:415px){
     
     .main-section1 {
         background-image: url(../images/2022-06-14.jpg);
